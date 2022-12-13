@@ -162,6 +162,18 @@ Switched to branch 'master'
 ```
 
 
+>
+9. Как связать локальный репозиторий с репозиторием на GitHub.com
+>
+>>
+*git remote add origin <html-link>* - **связать текущий реп с удаленным**.
+
+Удаленный реп должен уже существовать на GitHub
+
+>>
+```
+git remote add origin https://github.com/el710/Git.git
+```
 
 
 *git checkout master* - **открытие основной версии**

@@ -195,9 +195,8 @@ Switched to branch 'master'
 ```
 git remote add origin https://github.com/el710/Git.git
 ```
----
-
-# Как слить данные с GitHum.com
+-
+# Как слить данные с GitHub.com
 - [ *git pull < html-link > < branch >* ] - **слить ветку**
 - [ *git pull --set-upstream origin master*] - **слить ветку master как основную**
 
@@ -248,7 +247,7 @@ $ git branch -D lists
 
 ### По поводу слияния...
 
-при слиянии ветвей бывает конфликты
+при слиянии ветвей бывают конфликты
 
    При слиянии ветвей различаются данные в одинковых строках документа
    Например:
